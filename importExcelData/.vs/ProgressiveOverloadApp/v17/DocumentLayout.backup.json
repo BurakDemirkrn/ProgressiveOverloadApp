@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nesli\\OneDrive\\Masa\u00FCst\u00FC\\ProgressiveOverloadAPP\\ExceldenVeriCekme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7569A972-1988-463E-BC74-FE8614B8B301}|ProgressiveOverloadApp\\ProgressiveOverloadApp.pyproj|C:\\Users\\nesli\\OneDrive\\Masa\u00FCst\u00FC\\ProgressiveOverloadAPP\\ExceldenVeriCekme\\ProgressiveOverloadApp\\ProgressiveOverloadApp.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7569A972-1988-463E-BC74-FE8614B8B301}|ProgressiveOverloadApp\\ProgressiveOverloadApp.pyproj|solutionrelative:ProgressiveOverloadApp\\ProgressiveOverloadApp.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgressiveOverloadApp.py",
+              "DocumentMoniker": "C:\\Users\\nesli\\OneDrive\\Masa\u00FCst\u00FC\\ProgressiveOverloadAPP\\ExceldenVeriCekme\\ProgressiveOverloadApp\\ProgressiveOverloadApp.py",
+              "RelativeDocumentMoniker": "ProgressiveOverloadApp\\ProgressiveOverloadApp.py",
+              "ToolTip": "C:\\Users\\nesli\\OneDrive\\Masa\u00FCst\u00FC\\ProgressiveOverloadAPP\\ExceldenVeriCekme\\ProgressiveOverloadApp\\ProgressiveOverloadApp.py",
+              "RelativeToolTip": "ProgressiveOverloadApp\\ProgressiveOverloadApp.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-15T11:00:51.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
